@@ -1,6 +1,6 @@
 # access
 
-A new Flutter project.
+User-friendly flutter app to locate, research, and donate to abortion access funds
 
 ## Getting Started
 
